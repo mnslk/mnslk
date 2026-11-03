@@ -10,7 +10,7 @@
 - [api-testing](https://github.com/mnslk/api-testing) — коллекции Postman, проверка эндпоинтов, негативные сценарии.
 - [sql](https://github.com/mnslk/sql) — практика SQL-запросов: SELECT, JOIN, агрегаты.
 - [bug-tracker-system](https://github.com/mnslk/bug-tracker-system) — учебная система трекинга багов.
-- [CV](https://kazan.hh.ru/applicant/profile/me?hhtmFrom=applicant_services_front&hhtmFromLabel=header) — резюме.
+- [CV](https://kazan.hh.ru/resume/0a675a04ff0cec59920039ed1f746168723056?hhtmFrom=profile) — резюме.
 
 ---
 

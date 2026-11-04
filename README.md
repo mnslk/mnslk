@@ -9,8 +9,10 @@
 - [web-testing](https://github.com/mnslk/web-testing) — тест-кейсы и баг-репорты для учебного веб-магазина.
 - [api-testing](https://github.com/mnslk/api-testing) — коллекции Postman, проверка эндпоинтов, негативные сценарии.
 - [sql](https://github.com/mnslk/sql) — практика SQL-запросов: SELECT, JOIN, агрегаты.
+- [bash](https://github.com/mnslk/bash) — практика в терминале git bash.
 - [bug-tracker-system](https://github.com/mnslk/bug-tracker-system) — учебная система трекинга багов.
 - [CV](https://kazan.hh.ru/resume/0a675a04ff0cec59920039ed1f746168723056?hhtmFrom=profile) — резюме.
+
 
 ---
 
